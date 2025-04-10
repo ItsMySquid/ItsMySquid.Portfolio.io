@@ -33,4 +33,4 @@ Om dit portfolio lokaal te draaien, volg de onderstaande stappen:
 
 1. Clone de repository:
    ```bash
-   git clone https://github.com/jouwgebruikersnaam/portfolio.git
+   git clone https://github.com/ItsMySquid/Portfolio.git
