@@ -58,7 +58,7 @@
             </a>
 
             <a href="/Ecojourney" class="group block overflow-hidden bg-gray-700 rounded-lg shadow-lg hover:scale-105 transition-transform">
-                <img src="/images/Eco-Journey.jpg" alt="Ecojourney Project" class="w-full h-64 object-cover group-hover:opacity-80 transition">
+                <img src="/images/Eco-Journey.png" alt="Ecojourney Project" class="w-full h-64 object-cover group-hover:opacity-80 transition">
                 <div class="p-5">
                     <h4 class="text-2xl font-bold text-white">Ecojourney</h4>
                     <p class="text-gray-300 mt-2">Een korte beschrijving van het Ecojourney-project.</p>
